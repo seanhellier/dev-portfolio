@@ -767,6 +767,7 @@ footer
 .item-image img
 {
 	display:block;
+	border: 5px;
 }
 
 .portfolio .item:hover .portfolio-meta 
